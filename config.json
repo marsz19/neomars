@@ -1,0 +1,36 @@
+{
+  "ownerNumber": ["6281933225481@s.whatsapp.net"],
+  "ownerName": "MarselStore",
+  "botName": "MarsZxY BotsZ",
+  "sessionName": "session",
+  "pathimg": "./media/thumb.jpg",
+  "FakeNya": "MarsZxY-BotsZ © 2022",
+
+  "QrisAllPay": "Close!!!",
+  "textBarisDonate1": "Dana : https://i.postimg.cc/P5QD6Cyn/Proyek-Baru-9-D8631-BD.png",
+  "textBarisDonate2": "Ovo : https://i.postimg.cc/0ysmdYpC/Proyek-Baru-9-C8-E8-C8-F.png",
+  "textBarisDonate3": "Gopay : https://i.postimg.cc/YS2WTtDG/Proyek-Baru-9-699-D4-AE.png",
+  "textBarisDonate4": "Pulsa : Close!!!",
+  
+  "ButtonTextMenu1": "Website Owner",
+  "ButtonTextMenu2": "Group Owner",
+  "quickReplyButton3": "Rules",
+  "quickReplyButton4": "Donasi",
+  "quickReplyButton5": "Dashboard",
+  
+  "ButtonMenuLink1": "https://lynk.id/marselstoreid",
+  "ButtonMenuLink2": "https://chat.whatsapp.com/LLWKDuG0qIkCJdLgSZ4TWt",
+  "displayTextMenu3": "rules",
+  "displayTextMenu4": "donasi",
+  "displayTextMenu5": "dashboard",
+  
+  "simbolMenuAtas": "❐",
+  "simbolMenuBawah": "•",
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
